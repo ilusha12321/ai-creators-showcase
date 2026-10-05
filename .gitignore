@@ -1,2 +1,7 @@
 node_modules
 dist
+# add to the root .gitignore
+.env
+.env.*
+!.env.example
+backend/.env
