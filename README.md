@@ -179,8 +179,6 @@ src/
 <img width="1555" height="957" alt="image" src="https://github.com/user-attachments/assets/06189987-e764-4bd9-8a55-7f03e63ed380" />
 
 
-![Desktop Home](docs/screenshots/desktop-home.png)
-
 
 ## 3. Профіль AI-персонажа
 
@@ -188,10 +186,6 @@ src/
 
 <img width="1315" height="967" alt="image" src="https://github.com/user-attachments/assets/2e82f112-42e3-476a-ac55-33d4e869f6f4" />
 
-
-![Creator Profile](docs/screenshots/profile.png)
-
----
 
 ## 4. AI Chat
 
@@ -201,9 +195,6 @@ src/
 
 <img width="584" height="946" alt="image" src="https://github.com/user-attachments/assets/417ac8d0-03ad-4dad-a318-01ef649b5b32" />
 
-![AI Chat](docs/screenshots/chat.png)
-
----
 
 ## Локальний запуск
 
@@ -246,11 +237,3 @@ npm run dev
 * інтерактивність;
 * mobile-first;
 * підготовка інтерфейсу до подальшого підключення реального AI backend.
-
----
-
-## Автор
-
-**Ілля Холодов**
-
-GitHub: https://github.com/ilusha12321
